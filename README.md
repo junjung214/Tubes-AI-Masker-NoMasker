@@ -29,4 +29,4 @@ Kontributor dalam project kali ini adalah :
 
 ## Acknowledgments
 Inspiration, code snippets, etc.
-[Keras Documentation](https://keras.io/api/applications/vgg/)
+* [Keras Documentation](https://keras.io/api/applications/vgg/)
