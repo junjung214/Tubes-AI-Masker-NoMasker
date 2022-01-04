@@ -1,15 +1,15 @@
 # Tubes AI ~ Face Mask Detection Using Transfer Learning
 ## Deskripsi Dataset
-Dalam penyusunan project ini menggunakan 2 dataset dari sumber yang sama. Dataset ini didapatkan dari [Kaggle.com](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset) Dataset ini digunakan untuk Klasifikasi Deteksi Masker Wajah dengan gambar yang terdiri dari hampir 12K gambar. Dengan rincian direktori :
+Dalam penyusunan project ini menggunakan 2 dataset dari sumber yang sama. Dataset ini didapatkan dari [Github.com](https://github.com/prajnasb/observations/tree/master/experiements/) Dataset ini digunakan untuk Klasifikasi Deteksi Masker Wajah dengan gambar yang terdiri dari hampir 1700 gambar. Dengan rincian direktori :
   1. Test :
-     * WithMask : 483 images
-     * WithoutMask : 509 images
+     * WithMask : 97 images
+     * WithoutMask : 97 images
   2. Train :
-     * WithMask : 5000 images
-     * WithoutMask : 5000 images
+     * WithMask : 658 images
+     * WithoutMask : 657 images
   3. Validation :
-     * WithMask : 400 images
-     * WithoutMask : 400 images
+     * WithMask : 71 images
+     * WithoutMask : 71 images
 ## Teknik Deep Learning yang digunakan
 * Model menggunakan algoritma CNN (Convolutional Neural Network)
 * Model menggunakan algoritma Transfer Learning VGG16
