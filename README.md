@@ -12,7 +12,7 @@ Dalam penyusunan project ini menggunakan 2 dataset dari sumber yang sama. Datase
      * WithoutMask : 71 images
 ## Teknik Deep Learning yang digunakan
 * Model menggunakan algoritma CNN (Convolutional Neural Network)
-* Model menggunakan algoritma Transfer Learning VGG16
+* Model menggunakan algoritma Transfer Learning VGG19
 * Model dilatih menggunakan Google Colaboratory
 ## Jurnal Referensi
 * Jurnal referensi pada projek ini berjudul ["Control The COVID-19 Pandemic: Face Mask 
