@@ -1,6 +1,6 @@
 # Tubes AI ~ Face Mask Detection Using Transfer Learning
 ## Deskripsi Dataset
-Dalam penyusunan project ini menggunakan 2 dataset dari sumber yang sama. Dataset ini didapatkan dari [Github.com](https://github.com/prajnasb/observations/tree/master/experiements/) Dataset ini digunakan untuk Klasifikasi Deteksi Masker Wajah dengan gambar yang terdiri dari hampir 1700 gambar. Dengan rincian direktori :
+Dalam penyusunan project ini menggunakan 2 dataset dari sumber yang sama. Dataset ini didapatkan dari [Github.com](https://github.com/prajnasb/observations/tree/master/experiements/dest_folder) Dataset ini digunakan untuk Klasifikasi Deteksi Masker Wajah dengan gambar yang terdiri dari hampir 1700 gambar. Dengan rincian direktori :
   1. Test :
      * WithMask : 97 images
      * WithoutMask : 97 images
