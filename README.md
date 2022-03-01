@@ -30,8 +30,10 @@ Detection Using Transfer Learning"](https://www.mendeley.com/catalogue/33180134-
 
 ## Authors
 Kontributor dalam project kali ini adalah :
-1. Ahmad Junjung Sudrajad 2019-405
-2. Lidya Fankky Oktavia Putri 2019-448
+1. Ahmad Junjung Sudrajad
+2. Lidya Fankky Oktavia Putri
+3. Ulfah Nur Oktaviana
+4. Galih Wasis Wicaksono
 
 ## Acknowledgments
 Inspiration, code snippets, etc.
