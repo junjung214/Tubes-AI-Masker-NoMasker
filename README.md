@@ -5,8 +5,8 @@ In the preparation of this project using a dataset obtained from [Github.com](ht
      * WithMask : 97 images
      * WithoutMask : 97 images
   2. Train :
-     * WithMask : 658 images
-     * WithoutMask : 657 images
+     * WithMask : 690 images
+     * WithoutMask : 686 images
   3. Validation :
      * WithMask : 71 images
      * WithoutMask : 71 images
